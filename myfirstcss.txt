@@ -1,0 +1,21 @@
+.heading{
+	color : blue;
+}
+.spanel{
+	text-decoration: underline;
+}
+
+.orderlst{
+	padding-left: 15px;
+}
+.unorderlst{
+	padding-left: 25px;
+}
+.labels{
+	font-weight: bold;
+	font-size: 15px;
+}
+.submitbutton{
+	background-color: blue;
+	padding: 15px;
+}
