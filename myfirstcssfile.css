@@ -18,4 +18,9 @@
 .submitbutton{
 	background-color: blue;
 	padding: 15px;
+	color: white;
+	font-weight:bold;
+}
+.labl-heading{
+	text-align:center;
 }
